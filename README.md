@@ -4,7 +4,7 @@
 <img width="250" alt="Pet" src="https://github.com/user-attachments/assets/874d364f-1664-431a-82b9-9fd483c42057">
 
 ## 🥤 Among Us Character Sheet
-File Inlcude:
+File Include:
 - Crewmate
 - Skin
 - Pet
