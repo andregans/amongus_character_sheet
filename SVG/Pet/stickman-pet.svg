@@ -1,0 +1,20 @@
+<svg width="500" height="501" viewBox="0 0 500 501" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M102 252.549H185C187.761 252.549 190 254.787 190 257.549V266.549C190 269.31 187.761 271.549 185 271.549H102C99.2386 271.549 97 269.31 97 266.549V257.549C97 254.787 99.2386 252.549 102 252.549Z" fill="black"/>
+<path d="M244.51 312.63V219.049V181.299M244.51 312.63L181.849 379.013L139 414.049M244.51 312.63L344.031 357.808L362 414.049M244.51 143.549V181.299M244.51 181.299L323.5 247.049L362 262.049M244.51 181.299L152.5 219.049L139 262.049" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M182 224.549L208 246.549H194.5V255.049H178.5L174 269.049H194.5V278.549H208L182 304.549H226L240.5 290.049H391L406.5 274.549L378.5 246.549H240.5L222 224.549H182Z" fill="black" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="mask0_1_1152" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="171" y="222" width="238" height="86">
+<path d="M182 224.549L208 246.549H194.5V255.049H178.5L174 269.049H194.5V278.549H208L182 304.549H226L240.5 290.049H391L406.5 274.549L378.5 246.549H240.5L222 224.549H182Z" fill="#0F0E28" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_1_1152)">
+<path d="M371 275.049L390 294.049V312.049H202.5L230 284.549L220.5 275.049H244.5L250.5 281.049H279.5L273.5 275.049H307.5L313.5 281.049H345.5L333 275.049H371Z" fill="#FF0505"/>
+<path d="M182 224.549L208 246.549H194.5V255.049H178.5L174 269.049H194.5V278.549H208L182 304.549H226L240.5 290.049H391L406.5 274.549L378.5 246.549H240.5L222 224.549H182Z" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<circle cx="262.5" cy="136.049" r="40.5" fill="#98C7DD" stroke="black" stroke-width="14"/>
+<mask id="mask1_1_1152" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="215" y="88" width="95" height="96">
+<circle cx="262.5" cy="136.049" r="40.5" fill="#98C7DD" stroke="black" stroke-width="14"/>
+</mask>
+<g mask="url(#mask1_1_1152)">
+<path d="M249.157 145.814C260.443 155.262 300.416 147.803 307 145.814V194.549H220V102.549C223.762 110.008 237.87 136.365 249.157 145.814Z" fill="#4B646E" fill-opacity="0.55"/>
+<circle cx="262.5" cy="136.049" r="40.5" stroke="black" stroke-width="14"/>
+</g>
+</svg>
