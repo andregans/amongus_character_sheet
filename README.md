@@ -8,8 +8,8 @@ File Include:
 - Crewmate
 - Skin
 - Pet
-<br/>
-<img width="150" alt="Button" src="https://github.com/user-attachments/assets/d1068f03-4bbf-4a86-ba3d-8d8458a5cd3a">
+
+[<img width="150" alt="Button" src="https://github.com/user-attachments/assets/ec22e23d-129c-4dd7-8b2d-8b6051a6dd89">](https://www.figma.com/community/file/1407384517874328471/among-us-character-sheet)
 
 ## 🚀 FOLLOW ME
 - [Instagram](https://www.instagram.com/andrerio669/)
